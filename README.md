@@ -1,6 +1,8 @@
 401 JS --  Lab 38 photo uploads
 ===
+David's Description
 
+===
 ## Submission Instructions
   * Work in a fork of this repository
   * Work in a branch on your fork
