@@ -2,6 +2,7 @@
 ===
 David's Description
 
+Created a file uploader which displays an image to the user after they upload it.
 ===
 ## Submission Instructions
   * Work in a fork of this repository
